@@ -13,6 +13,6 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "end-of-stream": "~0.1.3"
+    "end-of-stream": "~1.1.0"
   }
 }
